@@ -16,6 +16,7 @@
 | 方向 | 技术 |
 |---|---|
 | AI | 语言模型训练与调优，对话算法，大模型 API 应用 |
+| 大模型部署 | vLLM |
 | 语言 | Python |
 | 框架 | Django，FastAPI |
 | 云与部署 | Linux，Cloudflare（Pages / Workers / R2 / KV），Supabase，Firebase |
@@ -58,6 +59,7 @@
 | 分野 | 技術 |
 |---|---|
 | AI | 言語モデルの学習・チューニング、対話アルゴリズム、LLM API活用 |
+| LLMデプロイ | vLLM |
 | 言語 | Python |
 | フレームワーク | Django、FastAPI |
 | クラウド・デプロイ | Linux、Cloudflare（Pages / Workers / R2 / KV）、Supabase、Firebase |
@@ -100,6 +102,7 @@ Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 | Area | Tools |
 |---|---|
 | AI | Language model training and tuning, dialogue algorithms, LLM API applications |
+| LLM deployment | vLLM |
 | Languages | Python |
 | Frameworks | Django, FastAPI |
 | Cloud & Deployment | Linux, Cloudflare (Pages / Workers / R2 / KV), Supabase, Firebase |
