@@ -8,7 +8,7 @@
 
 - 🎓 软件工程本科（2019）
 - 🤖 在中国做过 AI 开发：语言模型的训练和调优，游戏 AI 聊天算法
-- 🇯🇵 2026 年 3 月来到东京；2026 年起一边学日语，一边独立开发了 6 个项目
+- 🇯🇵 2026 年 3 月来到东京；2026 年起一边学日语，一边用 AI 编码工具独立开发了 6 个项目
 - 🔍 正在东京找 AI 工程师、Python 后端相关的工作
 
 ### 技术栈
@@ -17,11 +17,11 @@
 |---|---|
 | AI | 语言模型训练与调优，对话算法，大模型 API 应用 |
 | 语言 | Python |
-| 框架 | Django，FastAPI，Flutter |
+| 框架 | Django，FastAPI |
 | 云与部署 | Linux，Cloudflare（Pages / Workers / R2 / KV），Supabase，Firebase |
 | 数据库 | PostgreSQL，SQLite |
 
-### 个人项目（全部独立开发）
+### 个人项目（全部用 AI 编码工具独立开发）
 
 | 项目 | 内容 | 技术 |
 |---|---|---|
@@ -50,7 +50,7 @@
 
 - 🎓 ソフトウェア工学 学士（2019年）
 - 🤖 中国でAI開発に従事：言語モデルの学習・チューニング、ゲーム向けAIチャットアルゴリズム
-- 🇯🇵 2026年3月に来日。2026年から日本語を学びながら6つのプロジェクトを一人で開発
+- 🇯🇵 2026年3月に来日。2026年から日本語を学びながら6つのプロジェクトをAIコーディングツールで一人で開発
 - 🔍 東京でAIエンジニア・Pythonバックエンドの仕事を探しています
 
 ### 技術スタック
@@ -59,11 +59,11 @@
 |---|---|
 | AI | 言語モデルの学習・チューニング、対話アルゴリズム、LLM API活用 |
 | 言語 | Python |
-| フレームワーク | Django、FastAPI、Flutter |
+| フレームワーク | Django、FastAPI |
 | クラウド・デプロイ | Linux、Cloudflare（Pages / Workers / R2 / KV）、Supabase、Firebase |
 | データベース | PostgreSQL、SQLite |
 
-### 個人開発（すべて一人で開発）
+### 個人開発（すべてAIコーディングツールで一人で開発）
 
 | プロジェクト | 内容 | 技術 |
 |---|---|---|
@@ -92,7 +92,7 @@ Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 
 - 🎓 B.Eng. in Software Engineering (2019)
 - 🤖 AI work in China: language model training and tuning, an AI chat algorithm for a game
-- 🇯🇵 Moved to Tokyo in March 2026; since 2026 I've built 6 projects on my own while studying Japanese
+- 🇯🇵 Moved to Tokyo in March 2026; since 2026 I've built 6 projects on my own with AI coding tools while studying Japanese
 - 🔍 Looking for AI engineer or Python backend roles in Tokyo
 
 ### Tech Stack
@@ -101,11 +101,11 @@ Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 |---|---|
 | AI | Language model training and tuning, dialogue algorithms, LLM API applications |
 | Languages | Python |
-| Frameworks | Django, FastAPI, Flutter |
+| Frameworks | Django, FastAPI |
 | Cloud & Deployment | Linux, Cloudflare (Pages / Workers / R2 / KV), Supabase, Firebase |
 | Databases | PostgreSQL, SQLite |
 
-### Personal Projects (all built solo)
+### Personal Projects (all built solo with AI coding tools)
 
 | Project | What it does | Tech |
 |---|---|---|
