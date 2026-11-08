@@ -25,7 +25,7 @@
 
 | 项目 | 内容 | 技术 |
 |---|---|---|
-| **Omega** | 社交 App + 网站，App 和网站共用一个后端，支持实时音视频 · [网站](https://omega.wrcc.center/) | Flutter，Supabase，LiveKit / WebRTC，Next.js，Cloudflare Workers |
+| **Omega** | 社交 App + 网站，App 和网站共用一个后端，支持实时音视频 | Flutter，Supabase，LiveKit / WebRTC，Next.js，Cloudflare Workers |
 | **社区内容网站** | 课件、论坛、聊天、音视频串流 | Django，Cloudflare R2，HLS |
 | **JLPT 日语词汇站** | N5–N2 词库、听力讲解、学习进度云同步，约 1.4 万个音频 · [网站](https://jlpt-vocab-edd.pages.dev) | JavaScript，Cloudflare Pages + Functions + KV，Google OAuth，Python |
 | **Netflix 日语字幕讲解** | Chrome 扩展，实时讲解字幕的单词和语法，可接大模型深度讲解 | JavaScript，kuromoji，LLM API |
@@ -61,7 +61,7 @@
 
 | プロジェクト | 内容 | 技術 |
 |---|---|---|
-| **Omega** | SNSアプリ + Webサイト。同じバックエンドを共有し、リアルタイム音声・ビデオに対応 · [サイト](https://omega.wrcc.center/) | Flutter、Supabase、LiveKit / WebRTC、Next.js、Cloudflare Workers |
+| **Omega** | SNSアプリ + Webサイト。同じバックエンドを共有し、リアルタイム音声・ビデオに対応 | Flutter、Supabase、LiveKit / WebRTC、Next.js、Cloudflare Workers |
 | **コミュニティサイト** | 教材、掲示板、チャット、動画配信 | Django、Cloudflare R2、HLS |
 | **JLPT 単語学習サイト** | N5〜N2の単語、リスニング解説、学習進捗のクラウド同期、約1.4万件の音声 · [サイト](https://jlpt-vocab-edd.pages.dev) | JavaScript、Cloudflare Pages + Functions + KV、Google OAuth、Python |
 | **Netflix 日本語字幕解説** | 字幕の単語・文法をリアルタイムで解説するChrome拡張。LLMによる詳細解説にも対応 | JavaScript、kuromoji、LLM API |
@@ -97,7 +97,7 @@ Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 
 | Project | What it does | Tech |
 |---|---|---|
-| **Omega** | Social app + website sharing one backend, with real-time audio and video · [site](https://omega.wrcc.center/) | Flutter, Supabase, LiveKit / WebRTC, Next.js, Cloudflare Workers |
+| **Omega** | Social app + website sharing one backend, with real-time audio and video | Flutter, Supabase, LiveKit / WebRTC, Next.js, Cloudflare Workers |
 | **Community website** | Courseware, forum, chat, video streaming | Django, Cloudflare R2, HLS |
 | **JLPT vocabulary site** | N5–N2 vocabulary, listening lessons, cloud progress sync, ~14,000 audio files · [site](https://jlpt-vocab-edd.pages.dev) | JavaScript, Cloudflare Pages + Functions + KV, Google OAuth, Python |
 | **Netflix Japanese subtitle tutor** | Chrome extension explaining subtitle words and grammar in real time, with optional LLM deep dives | JavaScript, kuromoji, LLM API |
