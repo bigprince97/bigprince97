@@ -19,8 +19,7 @@
 | 大模型部署 | vLLM |
 | 语言 | Python |
 | 框架 | Django，FastAPI |
-| 云与部署 | Linux，Cloudflare（Pages / Workers / R2 / KV），Supabase，Firebase |
-| 数据库 | PostgreSQL，SQLite |
+| 系统 | Linux |
 
 ### 个人项目（全部用 AI 编码工具独立开发）
 
@@ -62,8 +61,7 @@
 | LLMデプロイ | vLLM |
 | 言語 | Python |
 | フレームワーク | Django、FastAPI |
-| クラウド・デプロイ | Linux、Cloudflare（Pages / Workers / R2 / KV）、Supabase、Firebase |
-| データベース | PostgreSQL、SQLite |
+| OS | Linux |
 
 ### 個人開発（すべてAIコーディングツールで一人で開発）
 
@@ -105,8 +103,7 @@ Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 | LLM deployment | vLLM |
 | Languages | Python |
 | Frameworks | Django, FastAPI |
-| Cloud & Deployment | Linux, Cloudflare (Pages / Workers / R2 / KV), Supabase, Firebase |
-| Databases | PostgreSQL, SQLite |
+| OS | Linux |
 
 ### Personal Projects (all built solo with AI coding tools)
 
