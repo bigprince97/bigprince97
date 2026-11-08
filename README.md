@@ -32,6 +32,12 @@
 | **日语文本阅读 App** | 日语朗读、全文搜索、逐句中文讲解，三端共用一套代码 | Flutter，FastAPI，Edge TTS |
 | **传统历法计算 App** | 计算逻辑抽成独立核心库，三端结果完全一致，290+ 自动化测试 | Flutter，Dart，SQLite |
 
+### 开源贡献（早期账号 [@fengzuo97](https://github.com/fengzuo97)）
+
+- **[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)**（约 7600★，中文 GPT2 训练项目），2019 年两个 PR 被合并：
+  - [#33](https://github.com/Morizeyao/GPT2-Chinese/pull/33) 新增 BPE 中文分词器
+  - [#46](https://github.com/Morizeyao/GPT2-Chinese/pull/46) 利用 GPT2 的 past 缓存加快文本生成
+
 > 主要项目的代码是私有仓库，面试时可以现场讲解。
 
 📮 bigprince1997@gmail.com
@@ -68,6 +74,12 @@
 | **日本語テキストリーダー** | 音声読み上げ、全文検索、一文ごとの中国語解説。3プラットフォームで同じコード | Flutter、FastAPI、Edge TTS |
 | **伝統暦計算アプリ** | 計算ロジックを独立ライブラリに分離し、3プラットフォームで結果を完全一致。290件以上の自動テスト | Flutter、Dart、SQLite |
 
+### OSS貢献（旧アカウント [@fengzuo97](https://github.com/fengzuo97)）
+
+- **[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)**（約7,600★、中国語GPT2学習プロジェクト）で2019年にPRが2件マージ：
+  - [#33](https://github.com/Morizeyao/GPT2-Chinese/pull/33) 中国語向けBPEトークナイザーを追加
+  - [#46](https://github.com/Morizeyao/GPT2-Chinese/pull/46) GPT2のpastキャッシュで文章生成を高速化
+
 > 主要プロジェクトのコードは非公開です。面接で直接ご説明できます。
 
 📮 bigprince1997@gmail.com
@@ -103,6 +115,12 @@ Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 | **Netflix Japanese subtitle tutor** | Chrome extension explaining subtitle words and grammar in real time, with optional LLM deep dives | JavaScript, kuromoji, LLM API |
 | **Japanese text reader app** | Text-to-speech, full-text search, sentence-by-sentence explanations; one codebase for 3 platforms | Flutter, FastAPI, Edge TTS |
 | **Traditional calendar calculator** | Core logic in a standalone library with identical results on 3 platforms; 290+ automated tests | Flutter, Dart, SQLite |
+
+### Open Source (earlier account [@fengzuo97](https://github.com/fengzuo97))
+
+- **[GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)** (~7,600 stars, Chinese GPT2 training): 2 PRs merged in 2019
+  - [#33](https://github.com/Morizeyao/GPT2-Chinese/pull/33) Added a Chinese BPE tokenizer
+  - [#46](https://github.com/Morizeyao/GPT2-Chinese/pull/46) Faster text generation with GPT2 past caching
 
 > Code for the main projects is private. Happy to walk through it in an interview.
 
