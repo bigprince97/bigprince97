@@ -8,7 +8,7 @@
 
 - 🎓 软件工程本科（2019）
 - 🤖 在中国做过 AI 开发：语言模型的训练和调优，游戏 AI 聊天算法
-- 🇯🇵 来日本后一边学日语，一边独立开发了 6 个项目
+- 🇯🇵 2026 年 3 月来到东京；2026 年起一边学日语，一边独立开发了 6 个项目
 - 🔍 正在东京找 AI 工程师、Python 后端、运维相关的工作
 
 ### 技术栈
@@ -50,7 +50,7 @@
 
 - 🎓 ソフトウェア工学 学士（2019年）
 - 🤖 中国でAI開発に従事：言語モデルの学習・チューニング、ゲーム向けAIチャットアルゴリズム
-- 🇯🇵 来日後、日本語を学びながら6つのプロジェクトを一人で開発
+- 🇯🇵 2026年3月に来日。2026年から日本語を学びながら6つのプロジェクトを一人で開発
 - 🔍 東京でAIエンジニア・Pythonバックエンド・インフラ関連の仕事を探しています
 
 ### 技術スタック
@@ -92,7 +92,7 @@ Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 
 - 🎓 B.Eng. in Software Engineering (2019)
 - 🤖 AI work in China: language model training and tuning, an AI chat algorithm for a game
-- 🇯🇵 Since moving to Japan, I've built 6 projects on my own while studying Japanese
+- 🇯🇵 Moved to Tokyo in March 2026; since 2026 I've built 6 projects on my own while studying Japanese
 - 🔍 Looking for AI engineer, Python backend or DevOps roles in Tokyo
 
 ### Tech Stack
