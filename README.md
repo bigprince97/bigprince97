@@ -7,7 +7,7 @@
 你好，我是左鋒，现在住在东京的软件工程师。
 
 - 🎓 软件工程本科（2019）
-- 🤖 在中国做过 AI 开发：语言模型的训练和调优，游戏 AI 聊天算法
+- 🤖 在中国做过 AI 开发：语言模型的训练和调优，游戏 AI 聊天算法，AI 占卜解读产品（六爻、大六壬）
 - 🇯🇵 2026 年 3 月来到东京；2026 年起一边学日语，一边用 AI 编码工具独立开发了 6 个项目
 - 🔍 正在东京找 AI 工程师、Python 后端相关的工作
 
@@ -30,7 +30,7 @@
 | **JLPT 日语词汇站** | N5–N2 词库、听力讲解、学习进度云同步，约 1.4 万个音频 · [网站](https://jlpt-vocab-edd.pages.dev) | Cloudflare Pages + Functions + KV，Google OAuth，Python |
 | **Netflix 日语字幕讲解** | Chrome 扩展，实时讲解字幕的单词和语法，可接大模型深度讲解 | kuromoji，LLM API |
 | **日语文本阅读 App** | 日语朗读、全文搜索、逐句中文讲解，三端共用一套代码 | Flutter，FastAPI，Edge TTS |
-| **传统历法计算 App** | 计算逻辑抽成独立核心库，三端结果完全一致，290+ 自动化测试 | Flutter，SQLite |
+| **六爻、大六壬排盘 App** | 排盘逻辑抽成独立核心库，三端结果完全一致，290+ 自动化测试；参考大量古籍中的案例 | Flutter，SQLite |
 
 ### 开源贡献（早期账号 [@fengzuo97](https://github.com/fengzuo97)）
 
@@ -49,7 +49,7 @@
 こんにちは、左鋒（サ ホウ）です。東京在住のソフトウェアエンジニアです。
 
 - 🎓 ソフトウェア工学 学士（2019年）
-- 🤖 中国でAI開発に従事：言語モデルの学習・チューニング、ゲーム向けAIチャットアルゴリズム
+- 🤖 中国でAI開発に従事：言語モデルの学習・チューニング、ゲーム向けAIチャットアルゴリズム、AI占いサービス（六爻・大六壬）
 - 🇯🇵 2026年3月に来日。2026年から日本語を学びながら6つのプロジェクトをAIコーディングツールで一人で開発
 - 🔍 東京でAIエンジニア・Pythonバックエンドの仕事を探しています
 
@@ -72,7 +72,7 @@
 | **JLPT 単語学習サイト** | N5〜N2の単語、リスニング解説、学習進捗のクラウド同期、約1.4万件の音声 · [サイト](https://jlpt-vocab-edd.pages.dev) | Cloudflare Pages + Functions + KV、Google OAuth、Python |
 | **Netflix 日本語字幕解説** | 字幕の単語・文法をリアルタイムで解説するChrome拡張。LLMによる詳細解説にも対応 | kuromoji、LLM API |
 | **日本語テキストリーダー** | 音声読み上げ、全文検索、一文ごとの中国語解説。3プラットフォームで同じコード | Flutter、FastAPI、Edge TTS |
-| **伝統暦計算アプリ** | 計算ロジックを独立ライブラリに分離し、3プラットフォームで結果を完全一致。290件以上の自動テスト | Flutter、SQLite |
+| **六爻・大六壬の占いアプリ** | 計算ロジックを独立ライブラリに分離し、3プラットフォームで結果を完全一致。290件以上の自動テスト。多数の古典籍の事例を参考 | Flutter、SQLite |
 
 ### OSS貢献（旧アカウント [@fengzuo97](https://github.com/fengzuo97)）
 
@@ -91,7 +91,7 @@
 Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 
 - 🎓 B.Eng. in Software Engineering (2019)
-- 🤖 AI work in China: language model training and tuning, an AI chat algorithm for a game
+- 🤖 AI work in China: language model training and tuning, an AI chat algorithm for a game, and an AI fortune-telling product (Liuyao, Da Liu Ren)
 - 🇯🇵 Moved to Tokyo in March 2026; since 2026 I've built 6 projects on my own with AI coding tools while studying Japanese
 - 🔍 Looking for AI engineer or Python backend roles in Tokyo
 
@@ -114,7 +114,7 @@ Hi, I'm Feng Zuo, a software engineer based in Tokyo.
 | **JLPT vocabulary site** | N5–N2 vocabulary, listening lessons, cloud progress sync, ~14,000 audio files · [site](https://jlpt-vocab-edd.pages.dev) | Cloudflare Pages + Functions + KV, Google OAuth, Python |
 | **Netflix Japanese subtitle tutor** | Chrome extension explaining subtitle words and grammar in real time, with optional LLM deep dives | kuromoji, LLM API |
 | **Japanese text reader app** | Text-to-speech, full-text search, sentence-by-sentence explanations; one codebase for 3 platforms | Flutter, FastAPI, Edge TTS |
-| **Traditional calendar calculator** | Core logic in a standalone library with identical results on 3 platforms; 290+ automated tests | Flutter, SQLite |
+| **Liuyao & Da Liu Ren divination app** | Core logic in a standalone library with identical results on 3 platforms; 290+ automated tests; built with reference to many case studies from classical texts | Flutter, SQLite |
 
 ### Open Source (earlier account [@fengzuo97](https://github.com/fengzuo97))
 
